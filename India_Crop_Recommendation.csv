@@ -1,0 +1,19 @@
+Region,Latitude,Longitude,Soil Type,pH,Temperature (°C),Humidity (%),Rainfall (mm),Recommended Crop
+Delhi,28.6139,77.209,Loam,6.25,25.0,64.0,1813.0,Wheat
+Mumbai,19.076,72.8777,Clay,7.04,22.7,81.3,683.5,Rice
+Bangalore,12.9716,77.5946,Sandy Loam,6.49,21.5,89.7,1568.9,Maize
+Kolkata,22.5726,88.3639,Alluvial,6.72,34.4,59.6,796.0,Jute
+Chennai,13.0827,80.2707,Red,7.98,29.0,85.0,1182.1,Millets
+Hyderabad,17.385,78.4867,Black,7.37,30.9,83.2,1368.0,Cotton
+Ahmedabad,23.0225,72.5714,Sandy,7.9,24.7,59.0,1163.8,Barley
+Pune,18.5204,73.8567,Sandy Loam,6.29,25.9,66.0,1327.5,Sugarcane
+Jaipur,26.9124,75.7873,Clay Loam,6.76,23.6,66.4,1995.1,Groundnut
+Lucknow,26.8467,80.9462,Alluvial,7.11,21.5,89.1,789.3,Pulses
+Patna,25.5941,85.1376,Loam,6.15,22.7,57.2,1545.6,Maize
+Guwahati,26.1445,91.7362,Loam,6.01,32.0,82.0,1154.4,Tea
+Srinagar,34.0837,74.7973,Silty,7.34,30.2,63.4,786.2,Saffron
+Shimla,31.1048,77.1734,Loam,7.28,28.2,79.2,822.2,Apples
+Bhopal,23.2599,77.4126,Black,6.82,27.1,66.8,1929.0,Soybean
+Raipur,21.2514,81.6296,Red,6.98,33.8,73.1,1831.4,Rice
+Imphal,24.817,93.9368,Loamy Sand,6.83,21.1,83.3,1869.9,Vegetables
+Panaji,15.2993,74.124,Laterite,6.05,24.2,82.2,1988.1,Cashew
